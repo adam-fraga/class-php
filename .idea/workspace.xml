@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="23723689-5ba8-4f7c-af37-5009bcfa5f6b" name="Default Changelist" comment="" />
+    <list default="true" id="23723689-5ba8-4f7c-af37-5009bcfa5f6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/12e402bc-c937-4cb6-9aa4-895c8b338fc7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/12e402bc-c937-4cb6-9aa4-895c8b338fc7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/user.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.9">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8">
     <include_path>
-      <path value="$PROJECT_DIR$/../../bin/php/php7.4.9" />
+      <path value="$PROJECT_DIR$/../../bin/php/php8.0.0/" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lKLo5WEipO98rx1AmaFsmLCK34" />
@@ -29,8 +39,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php7.4.9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php8.0.0/php.ini" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,10 +53,33 @@
       <option name="presentableId" value="Default" />
       <updated>1607341008116</updated>
       <workItem from="1607341009298" duration="17532000" />
+      <workItem from="1607427597672" duration="13582000" />
+      <workItem from="1607501670766" duration="290000" />
+      <workItem from="1607501992616" duration="19526000" />
+      <workItem from="1607528653528" duration="316000" />
+      <workItem from="1607529146658" duration="427000" />
+      <workItem from="1607536019696" duration="8326000" />
+      <workItem from="1607547056760" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
