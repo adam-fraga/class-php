@@ -1,6 +1,9 @@
 <?php
-require 'user-pdo.php';
-$adam = new Userpdo();
-//$adam->register('adm','655957','adam69006@hotmail.fr','adam','fraga');
-$infoAdam = $adam->connect('adm','655957');
-$adam->refresh();
+require 'lpdo.php';
+
+$connexion = new lpdo('localhost','root','','classes');
+$connexion->connect('localhost','root','','classes');
+//$connexion->close();
+$connexion->execute("SELECT * FROM utilisateurs WHERE login='adm'");
+$test = $connexion->getFields('utilisateurs');
+var_dump($test);
